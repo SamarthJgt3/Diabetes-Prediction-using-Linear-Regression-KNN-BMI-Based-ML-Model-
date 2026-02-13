@@ -2,9 +2,7 @@
 🔹 Overview
 
 This project demonstrates a Machine Learning implementation for predicting diabetes using patient BMI values. 
-
 The model uses supervised learning techniques including Linear Regression and K-Nearest Neighbors (KNN) classification.
-
 The objective is to analyze the relationship between BMI and diabetes occurrence and evaluate model performance using accuracy metrics.
 
 🔹 Machine Learning Modules Used
@@ -36,4 +34,11 @@ The objective is to analyze the relationship between BMI and diabetes occurrence
 -Model evaluation techniques
 -Handling categorical outputs (Y/N)
 
+🔹 Dataset Information
+Dataset: Diabetes Dataset
+Independent Variable: BMI (Second Last Column)
+Dependent Variable: Class (Y/N)
+Target:
+Y → Patient has Diabetes
+N → Patient does not have Diabetes
 

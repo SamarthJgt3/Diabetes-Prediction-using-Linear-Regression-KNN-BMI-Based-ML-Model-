@@ -1,0 +1,39 @@
+
+🔹 Overview
+
+This project demonstrates a Machine Learning implementation for predicting diabetes using patient BMI values. 
+
+The model uses supervised learning techniques including Linear Regression and K-Nearest Neighbors (KNN) classification.
+
+The objective is to analyze the relationship between BMI and diabetes occurrence and evaluate model performance using accuracy metrics.
+
+🔹 Machine Learning Modules Used
+-Train-Test Split
+-Linear Regression
+-K-Nearest Neighbors (KNN)
+-Accuracy Score
+-Classification Report
+
+
+🔹 Model Workflow
+-Load dataset using Pandas
+-Select BMI as independent variable
+-Select Class (Y/N) as dependent variable
+-Split dataset into training and testing sets
+-Train ML model
+-Predict output
+-Evaluate performance using Accuracy Score
+
+🔹 Technologies Used
+-Python
+-Pandas
+-Scikit-learn
+-Google Colab / Jupyter Notebook
+
+🔹 Learning Outcomes
+-Understanding supervised learning
+-Applying regression and classification models
+-Model evaluation techniques
+-Handling categorical outputs (Y/N)
+
+
